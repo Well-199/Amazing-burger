@@ -12,6 +12,7 @@
     padding: 0px;
     margin: 0px;
     font-family: 'Oswald', sans-serif;
+    scroll-behavior: smooth;
 }
 
 html, body {

@@ -2,7 +2,8 @@
 ##### Repositório destinado a página web do curso de desenvolvimento de software, para os alunos do CFP Polo Tarumã SP
 
 + Default colors
-+ #fdc648 - yellow - Banner and buttons
-+ #421e19 - brown - Large fonts
-+ #e01f20 - red - Labels
-+ #534f63 - gray - Small fonts
++ color-background: #ffffff; /* background page */
++ color-yellow: #fdc648; /* Banner and buttons */
++ color-brown: #421e19; /* Large fonts */
++ color-red: #e01f20; /* Labels and buttons */
++ color-gray: #534f63; /* Small fonts */
